@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "teste_titanic",
+    "slug": "teste_titanic",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
