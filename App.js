@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import ChamadaAPI from './api/ChamadaAPI'; // Ajuste o caminho de importação conforme sua estrutura de diretórios
-
+// testando felipe
 const App = () => {
     return (
         <View style={styles.container}>
